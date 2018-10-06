@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "empleado.h"
+#include "empleados.h"
 
 #define TAM 10
 
@@ -304,10 +304,6 @@ void obtenerDescComida(eComida c[], int tamc, int idComida, char* cadena)
         }
     }
 }
-
-
-
-
 
 
 
